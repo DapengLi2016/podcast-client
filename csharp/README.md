@@ -57,9 +57,9 @@ Run the tool with argument:
    | -------- | -------- | ---------------- | ----------- |
    | --region  | True | eastus | Provide the region of the API request. |
    | --subscriptionKey | True | | Provide your speech resource key. |
-   | --apiVersion | True | 2024-05-20-preview | Provide the version of the API request. |
+   | --apiVersion | True | 2026-01-01-preview | Provide the version of the API request. |
    | --targetLocales | True | en-US | Target locale of the translation. |
-   | --id | True | MyEnUSGeneration2024050601 | Generation ID. |
+   | --id | True | MyEnUSGeneration20260101 | Generation ID. |
    | --contentFileAzureBlobUrl | True | URL | Please proivde input content file URL, with or without SAS, which is hosted in an Azure storage blob. |
 
 # Argument definitions
